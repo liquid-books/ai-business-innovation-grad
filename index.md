@@ -6,7 +6,6 @@ description: "From the Business Model Canvas to an Investor-Ready Pitch — A Gr
 # AI Business Innovation: A Graduate Textbook
 
 **Author:** Dr. Ernesto Lee  
-**Structure:** 9 Chapters · 14–16 Week Semester  
 **Capstone:** Investor-Ready Pitch with a Functioning MVP Demo
 
 ---
@@ -137,28 +136,6 @@ Tool Gauntlet memo, BMC template, pitch rubric, ethics statement, glossary.
 
 <!-- GRID_PLACEHOLDER -->
 :::
-
----
-
-## Semester Schedule (15 Weeks)
-
-| Week | Chapter | Milestone |
-|------|---------|-----------|
-| 1 | Ch 1 — AI Disruption | Tool Gauntlet due |
-| 2 | Ch 2 — Value Proposition | Value Prop Canvas due |
-| 3 | Ch 2 continued | Moat analysis due |
-| 4 | Ch 3 — ICP | ICP Dossier + 3 interviews due |
-| 5 | Ch 4 — Unit Economics | Financial model due |
-| 6 | Ch 4 continued | Model defense |
-| 7 | Ch 5 — Rest of BMC + Pitch | Full BMC due |
-| 8 | Ch 5 continued | Midterm Pitch (deck + demo) |
-| 9 | Ch 6 — Vibe Coding | MVP architecture due |
-| 10 | Ch 6 continued | Deployed MVP due |
-| 11 | Ch 7 — Synthetic Employees | Agent deployed + logged |
-| 12 | Ch 8 — MarTech | GHL funnel live |
-| 13 | Ch 9 — End of Information Tax | Post-asymmetry paper due |
-| 14 | Capstone prep | Full system rehearsal |
-| 15 | Final capstone pitches | Panel evaluation |
 
 ---
 
