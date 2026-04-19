@@ -1,0 +1,54 @@
+# MyST project configuration
+# Docs: https://mystmd.org/guide/configuration
+version: 1
+project:
+  title: "AI Business Innovation: A Graduate Textbook"
+  subtitle: "From the Business Model Canvas to an Investor-Ready Pitch"
+  authors:
+    - name: Dr. Ernesto Lee
+  description: "A graduate-level textbook for BUS 3103 (PBAU) / ISM 6427C (FAU). Nine chapters, one capstone: you will leave with a pitchable business and a functioning MVP."
+  keywords: [AI, business innovation, Business Model Canvas, value proposition, unit economics, vibe coding, synthetic employees, MarTech, information asymmetry]
+  license: CC-BY-4.0
+  open_access: true
+  github: https://github.com/liquid-books/ai-business-innovation-grad
+  numbering:
+    heading_1: true
+    heading_2: true
+    heading_3: true
+    figure: true
+    table: true
+    equation: true
+  exports:
+    - format: pdf
+  toc:
+    - file: index.md
+    - title: "Preface: Why This Book Exists"
+      file: chapters/ch00-preface.md
+    - title: "Chapter 1: Introduction to AI Disruption"
+      file: chapters/ch01-ai-disruption.md
+    - title: "Chapter 2: Value Proposition"
+      file: chapters/ch02-value-proposition.md
+    - title: "Chapter 3: Ideal Customer Profile"
+      file: chapters/ch03-ideal-customer-profile.md
+    - title: "Chapter 4: Unit Economics"
+      file: chapters/ch04-unit-economics.md
+    - title: "Chapter 5: The Rest of the Canvas, and The Pitch"
+      file: chapters/ch05-pitch.md
+    - title: "Chapter 6: Vibe Coding"
+      file: chapters/ch06-vibe-coding.md
+    - title: "Chapter 7: Synthetic Employees"
+      file: chapters/ch07-synthetic-employees.md
+    - title: "Chapter 8: MarTech — Vibe Marketing"
+      file: chapters/ch08-martech.md
+    - title: "Chapter 9: The End of the Information Tax"
+      file: chapters/ch09-information-tax.md
+    - title: "Appendices"
+      file: chapters/appendices.md
+
+site:
+  title: "AI Business Innovation: A Graduate Textbook"
+  options:
+    logo_text: "AI Business Innovation"
+    logo_url: "/ai-business-innovation-grad/"
+  parts:
+    primary_sidebar_footer: primary-sidebar-footer.md
