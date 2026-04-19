@@ -1,9 +1,9 @@
 ---
-title: "AI Business Innovation: A Graduate Textbook"
+title: "Business Applications of Artificial Intelligence"
 description: "From the Business Model Canvas to an Investor-Ready Pitch — A Graduate Textbook"
 ---
 
-# AI Business Innovation: A Graduate Textbook
+# Business Applications of Artificial Intelligence
 
 **Author:** Dr. Ernesto Lee  
 **Capstone:** Investor-Ready Pitch with a Functioning MVP Demo
@@ -12,11 +12,11 @@ description: "From the Business Model Canvas to an Investor-Ready Pitch — A Gr
 
 :::{figure} images/cover.png
 :label: fig-cover
-:alt: AI Business Innovation — A Graduate Textbook by Dr. Ernesto Lee
+:alt: Business Applications of Artificial Intelligence — A Graduate Textbook by Dr. Ernesto Lee
 :width: 60%
 :align: center
 
-*AI Business Innovation: A Graduate Textbook* — Dr. Ernesto Lee
+*Business Applications of Artificial Intelligence* — Dr. Ernesto Lee
 :::
 
 ---
@@ -134,7 +134,6 @@ Akerlof, Spence, Stiglitz. The asymmetry collapse. What survives. Why you will.
 Tool Gauntlet memo, BMC template, pitch rubric, ethics statement, glossary.
 :::
 
-<!-- GRID_PLACEHOLDER -->
 :::
 
 ---

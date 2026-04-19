@@ -2,7 +2,7 @@
 # Docs: https://mystmd.org/guide/configuration
 version: 1
 project:
-  title: "AI Business Innovation: A Graduate Textbook"
+  title: "Business Applications of Artificial Intelligence"
   subtitle: "From the Business Model Canvas to an Investor-Ready Pitch"
   authors:
     - name: Dr. Ernesto Lee
@@ -46,9 +46,9 @@ project:
       file: chapters/appendices.md
 
 site:
-  title: "AI Business Innovation: A Graduate Textbook"
+  title: "Business Applications of Artificial Intelligence"
   options:
-    logo_text: "AI Business Innovation"
+    logo_text: "Business Applications of Artificial Intelligence"
     logo_url: "/ai-business-innovation-grad/"
   parts:
     primary_sidebar_footer: primary-sidebar-footer.md
