@@ -2,7 +2,7 @@
 title: "Introduction to AI Disruption"
 subtitle: "The Business Model Canvas as a Disruption Map"
 short_title: "Ch 1: AI Disruption"
-description: "Why 2022–2026 is a structural inflection, not a cyclical one. Nine BMC blocks, nine surfaces where AI is rewriting the rules."
+description: "Why the current AI era represents a structural inflection, not a cyclical one. Nine BMC blocks, nine surfaces where AI is rewriting the rules."
 label: ch-01-ai-disruption
 tags: [AI disruption, Business Model Canvas, inflection, tool stack, LLMs]
 ---
@@ -81,7 +81,7 @@ To understand why LLMs represent a structural break from prior AI systems, consi
 :::
 
 :::{tab-item} LLMs and Foundation Models (2022–present)
-**Examples:** GPT-4, Claude 3.7, Gemini 2.5 Pro, Llama 3.3
+**Examples:** GPT-4o, Claude, Gemini Pro, and Llama (latest versions)
 
 **How they work:**
 - Trained on the totality of human-written text (effectively)
@@ -124,9 +124,9 @@ What does this compression mean for business strategy? Simply: **the window for 
 
 This is not hyperbole. Consider:
 
-- **Klarna** deployed AI to replace 700 customer service agents in 2024. Within 12 months, it reported that its AI system handled 2/3 of customer service chats with satisfaction scores matching human agents — at 1/10th the cost.
+- **[Klarna](https://www.klarna.com)** deployed AI to replace 700 customer service agents in 2024. Within 12 months, it reported that its AI system handled 2/3 of customer service chats with satisfaction scores matching human agents — at 1/10th the cost.
 - **Goldman Sachs** reported in 2025 that AI coding assistants had reduced software development time by 40% for its engineering teams, effectively expanding its engineering output without headcount growth.
-- **McKinsey's 2025 State of AI report** found that companies in the top quartile of AI adoption were achieving revenue growth 1.4x higher than their bottom-quartile peers — and that gap was *widening*.
+- **[McKinsey's 2025 State of AI report](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)** found that companies in the top quartile of AI adoption were achieving revenue growth 1.4x higher than their bottom-quartile peers — and that gap was *widening*.
 
 ### The Winner's Curse
 
@@ -146,7 +146,7 @@ The winner's curse of AI adoption. Moving too early incurs high implementation c
 The optimal adoption strategy is neither first-mover nor fast-follower in the classical sense. It is **informed early majority**: move after the technology has achieved sufficient reliability for production use, but before the late majority normalizes it. In 2026, we are at or approaching this inflection for most enterprise AI applications.
 
 :::{note}
-**A note on model quality:** The capability gap between leading AI models and their predecessors has been compressing rapidly. GPT-4 (2023), Claude 3.5 (2024), and Gemini 2.5 Pro (2025) each represented 2–3x improvements in benchmark performance over their predecessors. The practical implication: tasks that were not reliably automatable in 2023 are routinely automated in 2025. Strategic plans built on 2023-era AI capabilities are already outdated.
+**A note on model quality:** Each successive wave of frontier models has represented step-change improvements in benchmark performance over predecessors. The practical implication: tasks that were not reliably automatable two years ago are routinely automated today. Strategic plans built on two-year-old AI capabilities are already outdated.
 :::
 
 :::{dropdown} Deep Dive: The Diffusion of Innovations Framework Applied to AI
@@ -176,6 +176,10 @@ The Business Model Canvas with AI disruption intensity overlaid. All nine blocks
 :::
 
 Osterwalder and Pigneur's Business Model Canvas (2010) is the dominant framework for visualizing and analyzing business models. Originally designed as a tool for design and iteration, it has become, in the AI era, an indispensable diagnostic for disruption. Each of the nine blocks represents a surface where AI is simultaneously creating new value and destroying old competitive positions.
+
+:::{tip}
+**BMC Template:** Download the Business Model Canvas Word template for this course here: [Business-Model-Canvas-Word-Template.docx](https://github.com/liquid-books/ai-business-innovation-grad/blob/main/docs/ch1/Business-Model-Canvas-Word-Template-v3-hwiqaj.docx). You will use this template for Lab assignments throughout the semester.
+:::
 
 :::{important}
 The Business Model Canvas is not a static snapshot. In the AI era, treat it as a **dynamic map** that requires quarterly review. A block that was stable in Q1 2025 may be fundamentally different by Q4 2025 as new AI capabilities emerge.
@@ -237,8 +241,8 @@ AI-powered hyper-personalization collapses the traditional segmentation hierarch
 
 **Current examples:**
 
-- **Harvey AI** (legal) offers a value proposition impossible before LLMs: a junior associate-level legal research and drafting capability available 24/7 at $0.01 per task. This is not faster legal research — it is a *new value proposition* for legal work that displaces the hourly billing model.
-- **GitHub Copilot** offers "pair programming with an AI that knows every public codebase." In 2025, GitHub reported that Copilot users completed tasks 55% faster and wrote code with 40% fewer bugs. This is not an incremental improvement — it is a step-change in what developer productivity means.
+- **[Harvey AI](https://www.harvey.ai)** (legal) offers a value proposition impossible before LLMs: a junior associate-level legal research and drafting capability available 24/7 at $0.01 per task. This is not faster legal research — it is a *new value proposition* for legal work that displaces the hourly billing model.
+- **[GitHub Copilot](https://github.com/features/copilot)** offers "pair programming with an AI that knows every public codebase." In 2025, GitHub reported that Copilot users completed tasks 55% faster and wrote code with 40% fewer bugs. This is not an incremental improvement — it is a step-change in what developer productivity means.
 - **Glean** (enterprise search) promises that every employee can find any internal information in seconds. This proposition was technically achievable before LLMs but economically unviable. With AI, Glean's indexing and retrieval intelligence makes the proposition both achievable and affordable.
 
 **Strategic implication:** Audit your current value proposition against this question: *Is this proposition becoming more or less differentiated as AI capabilities improve?* If a competitor can now deliver your core value proposition with AI at 1/10th the cost, your moat is eroding.
@@ -251,8 +255,8 @@ AI-powered hyper-personalization collapses the traditional segmentation hierarch
 
 **Current examples:**
 
-- **Perplexity AI** has grown to 20 million daily active users by 2025 as an AI-native search channel. Brands that optimized for Google SEO now face a new channel: AI answer engines that synthesize information rather than list links. Winning in this channel requires being cited *by AI*, not just ranked *by algorithms*.
-- **Shopify's AI storefront assistant** allows customers to describe what they want in natural language ("I need a birthday gift for my sister who loves hiking, budget $50–$80") and receive curated recommendations. This collapses the browse-and-filter UX into a conversational experience.
+- **[Perplexity AI](https://www.perplexity.ai)** has grown to 20 million daily active users by 2025 as an AI-native search channel. Brands that optimized for Google SEO now face a new channel: AI answer engines that synthesize information rather than list links. Winning in this channel requires being cited *by AI*, not just ranked *by algorithms*.
+- **[Shopify](https://www.shopify.com)'s AI storefront assistant** allows customers to describe what they want in natural language ("I need a birthday gift for my sister who loves hiking, budget $50–$80") and receive curated recommendations. This collapses the browse-and-filter UX into a conversational experience.
 - **Duolingo's AI tutor** (Max) replaced much of the app-based lesson structure with conversational practice. Engagement time per session increased 30% as users found the conversational format more natural and effective.
 
 **Strategic implication:** Your channel strategy must now include AI-mediated channels. This means optimizing for AI discoverability (structured data, authoritative content), building conversational interfaces, and understanding how AI agents make recommendations on behalf of users.
@@ -265,7 +269,7 @@ AI-powered hyper-personalization collapses the traditional segmentation hierarch
 
 **Current examples:**
 
-- **Klarna's AI assistant** serves as a shopping advisor, financial manager, and customer service agent simultaneously. In 2024, it handled 2.3 million customer conversations in a single day — equivalent to the workload of 5,000 human agents. Customer satisfaction scores were within 2 points of human agent performance.
+- **[Klarna](https://www.klarna.com)'s AI assistant** serves as a shopping advisor, financial manager, and customer service agent simultaneously. In 2024, it handled 2.3 million customer conversations in a single day — equivalent to the workload of 5,000 human agents. Customer satisfaction scores were within 2 points of human agent performance.
 - **Salesforce Einstein AI** provides sales representatives with real-time relationship intelligence: flagging at-risk accounts, recommending next best actions, and drafting personalized outreach. The result is not just efficiency — it is a *qualitatively different relationship* between the sales rep, the AI, and the customer.
 - **Woebot** (mental health) has demonstrated that AI companions can maintain therapeutic-quality relationships with users experiencing mild anxiety and depression, with clinical outcomes comparable to CBT for select conditions (Fitzpatrick et al., 2017). By 2025, Woebot served over 4 million users — a scale no human therapist workforce could match.
 
@@ -326,7 +330,7 @@ The AI era is accelerating a shift from access-based (subscription) revenue mode
 
 **Current examples:**
 
-- **Cursor** (AI code editor) built its entire product on top of Anthropic's Claude API. When Anthropic changed its API pricing in 2024, Cursor's unit economics were directly impacted — illustrating the platform risk of a single AI partner dependency.
+- **[Cursor](https://www.cursor.com)** (AI code editor) built its entire product on top of Anthropic's Claude API. When Anthropic changed its API pricing in 2024, Cursor's unit economics were directly impacted — illustrating the platform risk of a single AI partner dependency.
 - **Intercom** integrated multiple AI providers (OpenAI, Anthropic) into its customer service platform, explicitly to reduce single-provider risk. By 2025, this multi-model architecture had become a standard recommendation for enterprise AI procurement.
 - **Microsoft's OpenAI partnership** ($13B investment) is the defining example of AI partnerships reshaping competitive positions. Microsoft's integration of GPT-4 across Office 365, GitHub, Azure, and Bing created a compounding competitive advantage that Google, Amazon, and Salesforce scrambled to replicate with their own AI partner ecosystems.
 
@@ -392,9 +396,9 @@ flowchart LR
     C --> F
 ```
 
-### Tool 1: gemini.google.com
+### Tool 1: [gemini.google.com](https://gemini.google.com)
 
-Gemini is Google's flagship conversational AI, powered by the Gemini 2.5 Pro model as of 2025–2026. For business applications, Gemini's distinguishing features are:
+Gemini is Google's flagship conversational AI, powered by the latest Gemini Pro model. For business applications, Gemini's distinguishing features are:
 
 - **Multimodal reasoning:** Gemini can analyze images, PDFs, spreadsheets, and video alongside text. Upload a competitor's annual report and ask Gemini to identify their AI investment signals.
 - **Deep Research mode:** Gemini's Deep Research feature conducts multi-step web research and synthesizes findings into structured reports — replacing 4–6 hours of analyst work in 20–30 minutes.
@@ -402,7 +406,7 @@ Gemini is Google's flagship conversational AI, powered by the Gemini 2.5 Pro mod
 
 **Best use cases in this course:** Market research, competitive analysis, document summarization, brainstorming, drafting.
 
-### Tool 2: notebooklm.google.com
+### Tool 2: [notebooklm.google.com](https://notebooklm.google.com)
 
 NotebookLM is Google's document-grounded AI workspace. Unlike general-purpose chatbots, NotebookLM is explicitly anchored to documents *you* upload. It will not hallucinate facts outside your source material — and it will cite the page and paragraph for every claim.
 
@@ -412,22 +416,26 @@ NotebookLM is Google's document-grounded AI workspace. Unlike general-purpose ch
 **NotebookLM is the most underrated tool in this stack.** For academic work, its source-citation discipline makes it substantially more reliable than general-purpose AI for research tasks. Upload your course readings and your external research sources, then query across all of them simultaneously.
 :::
 
-### Tool 3: aistudio.google.com
+:::{seealso}
+**Chapter 1 NotebookLM Resource:** A shared NotebookLM notebook for this chapter — loaded with course readings, case studies, and supplementary materials — is available at: [notebooklm.google.com/notebook/0c144708-1215-4c1d-81e0-c2c9ee33fa85](https://notebooklm.google.com/notebook/0c144708-1215-4c1d-81e0-c2c9ee33fa85). Ask it any questions about the chapter content, and it will respond with citations from the source materials.
+:::
+
+### Tool 3: [aistudio.google.com](https://aistudio.google.com)
 
 Google AI Studio is the developer-facing interface for Google's Gemini family of models. It provides:
 
 - **Prompt engineering workspace:** Test prompts, compare outputs, and refine systematically.
-- **Model selection:** Compare Gemini 2.5 Pro, Flash, and specialized variants.
+- **Model selection:** Compare Gemini Pro, Flash, and specialized variants.
 - **API key management:** Generate API keys for programmatic access.
 - **Grounding with Google Search:** Enable real-time web search augmentation for time-sensitive queries.
 
 **Best use cases in this course:** Prompt engineering, API experimentation, building custom AI workflows, testing model performance on business tasks.
 
-### Tool 4: claude.ai
+### Tool 4: [claude.ai](https://claude.ai)
 
 Anthropic's Claude is, as of 2025–2026, the most capable AI system for complex reasoning, nuanced writing, and long-context analysis. Claude's distinguishing features:
 
-- **Extended thinking:** Claude 3.7's extended thinking mode shows its reasoning process, enabling you to audit and guide its logic.
+- **Extended thinking:** Claude's extended thinking mode shows its reasoning process, enabling you to audit and guide its logic.
 - **200K token context window:** Claude can hold an entire book, legal contract, or financial model in context simultaneously.
 - **Constitutional AI:** Anthropic's safety training makes Claude notably more careful about uncertainty, more likely to express doubt when appropriate, and less prone to confident confabulation.
 
@@ -462,9 +470,9 @@ Google Antigravity (formerly known as Google Labs' Workspace AI collaboration to
 
 | Tool | Purpose | Free Tier |
 |------|---------|-----------|
-| **GitHub** | Code repository, version control, deployment | Free for public repos |
-| **Cursor** | AI-native code editor (VS Code with AI) | 2-week trial, then $20/mo |
-| **Obsidian** | Personal knowledge management, linked notes | Free for personal use |
+| **[GitHub](https://github.com)** | Code repository, version control, deployment | Free for public repos |
+| **[Cursor](https://www.cursor.com)** | AI-native code editor (VS Code with AI) | 2-week trial, then $20/mo |
+| **[Obsidian](https://obsidian.md)** | Personal knowledge management, linked notes | Free for personal use |
 
 :::{tip}
 **Obsidian as a learning accelerator:** Many of the most effective AI practitioners maintain a "second brain" in Obsidian — a personal knowledge base of prompts, frameworks, case study notes, and mental models. Consider building your Obsidian vault as a parallel project throughout this course.
@@ -550,19 +558,34 @@ By training AI models on this proprietary corpus, Shopify created a moat that a 
 
 ### Lab Tasks
 
+:::{important}
+**A Note on Prompting: Meta-Prompting Is Required**
+
+The prompts provided in each task below are **starter prompts only**. They are intentionally minimal — designed to get you oriented to the tool, not to produce the best possible output. A weak, one-sentence prompt will produce a weak output. That is by design.
+
+The expectation for every lab in this course is that you will **meta-prompt**: use AI to improve your prompt before submitting it to the task. Meta-prompting means asking an AI (Claude or Gemini work well for this) to help you turn a basic prompt into a high-quality, professional prompt.
+
+**How to meta-prompt:**
+1. Start with the starter prompt provided.
+2. Open Claude or Gemini and say: *"I need to write a high-quality prompt for an AI assistant to accomplish the following task: [paste your starter prompt]. Help me expand it into a thorough, 2–3 paragraph prompt that specifies the role, context, output format, quality criteria, and any constraints. Make it significantly better than the starter."*
+3. Review the improved prompt, refine it to match your specific needs, and use *that* as your actual prompt for the task.
+
+Your submitted lab work should reflect a prompt of 2–3 substantial paragraphs — not a one-liner. Instructors will assess prompt quality as part of the lab evaluation. Over the course of the semester, your prompting skills are expected to compound. By Chapter 9, your prompts should be dramatically more sophisticated than your Chapter 1 prompts.
+:::
+
 **Task 1: Gemini — Market Landscape Analysis (45 min)**
-1. Open gemini.google.com and enable Deep Research mode.
+1. Open [gemini.google.com](https://gemini.google.com) and enable Deep Research mode.
 2. Prompt: *"Conduct a comprehensive analysis of the AI-powered customer service market in 2025–2026. Identify the top 5 players, their business models, pricing, and key differentiators. Format as a structured report."*
 3. Review the output. Identify 2 claims you want to verify independently.
 4. Verify those claims using NotebookLM (see Task 2) or direct web search.
 
 **Task 2: NotebookLM — Source Synthesis (30 min)**
-1. Upload 3 documents to NotebookLM: (a) any academic paper on AI in business from Google Scholar, (b) a competitor's annual report or 10-K filing from SEC.gov, (c) any news article about an AI business application from the past 6 months.
+1. Upload 3 documents to [notebooklm.google.com](https://notebooklm.google.com): (a) any academic paper on AI in business from [Google Scholar](https://scholar.google.com), (b) a competitor's annual report or 10-K filing from [SEC.gov](https://www.sec.gov/cgi-bin/browse-edgar), (c) any news article about an AI business application from the past 6 months.
 2. Ask NotebookLM: *"What are the three most important claims these sources make about AI's impact on business? Where do they agree and disagree?"*
 3. Note how NotebookLM cites sources. Compare to how Gemini responded in Task 1.
 
 **Task 3: AI Studio — Prompt Engineering (30 min)**
-1. Open aistudio.google.com and select Gemini 2.5 Pro.
+1. Open [aistudio.google.com](https://aistudio.google.com) and select the latest Gemini Pro model.
 2. Write a prompt to analyze a business problem of your choice. Test three variations:
    - A brief, conversational prompt (1–2 sentences)
    - A structured prompt with role, context, task, and format instructions
@@ -570,7 +593,7 @@ By training AI models on this proprietary corpus, Shopify created a moat that a 
 3. Document how output quality changes across prompt types. This is your first prompt engineering experiment.
 
 **Task 4: Claude — Long-Context Analysis (30 min)**
-1. Open claude.ai and select Claude 3.7.
+1. Open [claude.ai](https://claude.ai) and select the latest Claude model.
 2. Upload this chapter (or a document of 10,000+ words of your choice).
 3. Ask Claude: *"Identify the three most contestable claims in this document. For each, provide the strongest counterargument, evidence that might support the claim, and your overall assessment of the claim's defensibility."*
 4. Enable extended thinking if available. Observe how the reasoning process differs from standard responses.
@@ -586,6 +609,38 @@ By training AI models on this proprietary corpus, Shopify created a moat that a 
 2. Open Claude and paste both outputs.
 3. Prompt: *"I have an AI market analysis and a synthesis of academic sources on AI in business. Identify the three biggest gaps between what industry analysts are saying and what academic research suggests. What should a business strategist pay attention to that both sources might be missing?"*
 4. Reflect: what happened when you connected multiple AI tools in sequence? What was the output quality compared to any single tool?
+
+---
+
+### AI Studio Build — Weekly Application
+
+**This is not optional.** Every chapter in this course includes an AI Studio Build assignment. This is how you learn to build, not just analyze.
+
+**The BMC Disruption Analyzer**
+
+In [aistudio.google.com](https://aistudio.google.com), you will build a shareable AI application — your first of nine.
+
+**What you are building:** A system-prompted Gemini application that functions as an industry-disruption analyst. When a user enters any industry name, the app returns a structured analysis of how AI disrupts each of the nine BMC blocks for that industry, with a specific real-world example per block.
+
+**Step-by-step:**
+
+1. Open [aistudio.google.com](https://aistudio.google.com) and navigate to **"Build"** (not "Stream Realtime" or "Prompt").
+2. In the **System Instructions** field, write your system prompt. This is where you define what your application does, how it behaves, and what format it outputs. (Apply meta-prompting here — use Claude to help you write a thorough system prompt before pasting it into AI Studio.)
+3. A strong system instruction for this application will specify:
+   - The AI's role (industry disruption analyst with deep business strategy expertise)
+   - The exact output structure (one section per BMC block, with a concrete example for each)
+   - The tone (analytical, evidence-based, specific — not vague or generic)
+   - The quality bar (examples must name specific companies, technologies, or business models — no abstract generalities)
+4. Test your application by entering at least **three industries** of your choosing. Review the outputs critically: Are the examples specific? Are the disruption mechanisms accurate? Refine your system prompt iteratively until you are satisfied.
+5. Use the **Share** function in AI Studio to generate a public share link.
+
+**Deliverable:** Submit (a) your AI Studio share link, (b) the full text of your system instruction, and (c) sample outputs for three industries of your choosing. Your system instruction alone should be 2–3 substantial paragraphs.
+
+**What you are learning:** System instructions, structured prompting, output format control, and iterative prompt refinement. These are the foundational skills for every AI Studio build in subsequent chapters.
+
+:::{tip}
+**Build on AI Studio, not just in it.** The shift from "using AI Studio to run prompts" to "building with AI Studio to create shareable tools" is the shift from AI consumer to AI builder. This course trains the latter. Every AI Studio Build assignment compounds on the last — by Chapter 9, you will have built nine interconnected tools that together form your AI innovation toolkit.
+:::
 
 ---
 
@@ -605,7 +660,7 @@ In your post:
 - Cite at least one specific company that has moved late and describe the competitive consequences
 - Argue for the adoption strategy you believe is optimal for a new entrant in this industry in 2026
 
-Support your argument with scholarly sources on technology adoption and at least one recent (2024–2026) news source documenting AI adoption patterns in your chosen industry.
+Support your argument with scholarly sources on technology adoption and at least one recent news source (no more than two years old) documenting AI adoption patterns in your chosen industry.
 
 ### Discussion 2: The BMC Disruption Audit
 
@@ -624,10 +679,10 @@ Your post should demonstrate familiarity with at least one of these frameworks f
 
 **Required:**
 
-- Osterwalder, A., & Pigneur, Y. (2010). *Business model generation: A handbook for visionaries, game changers, and challengers*. Wiley. (Chapters 1–2: The Canvas)
+- Osterwalder, A., & Pigneur, Y. (2010). [*Business model generation: A handbook for visionaries, game changers, and challengers*](https://www.strategyzer.com/library/the-business-model-canvas). Wiley. (Chapters 1–2: The Canvas)
 - Christensen, C.M., McDonald, R., Altman, E.J., & Palmer, J.E. (2018). Disruptive innovation: An intellectual history and directions for future research. *Journal of Management Studies, 55*(7), 1043–1078.
-- McKinsey Global Institute. (2025). *The state of AI: How organizations are rewiring to capture value*. McKinsey & Company.
-- Eloundou, T., Manning, S., Mishkin, P., & Rock, D. (2023). GPTs are GPTs: An early look at the labor market impact potential of large language models. *arXiv:2303.10130*.
+- McKinsey Global Institute. (2025). [*The state of AI: How organizations are rewiring to capture value*](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai). McKinsey & Company.
+- Eloundou, T., Manning, S., Mishkin, P., & Rock, D. (2023). GPTs are GPTs: An early look at the labor market impact potential of large language models. [*arXiv:2303.10130*](https://arxiv.org/abs/2303.10130).
 
 **Recommended:**
 
