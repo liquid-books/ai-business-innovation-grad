@@ -1,12 +1,11 @@
 ---
 title: "AI Business Innovation: A Graduate Textbook"
-description: "From the Business Model Canvas to an Investor-Ready Pitch. BUS 3103 (PBAU) / ISM 6427C (FAU)"
+description: "From the Business Model Canvas to an Investor-Ready Pitch — A Graduate Textbook"
 ---
 
 # AI Business Innovation: A Graduate Textbook
 
 **Author:** Dr. Ernesto Lee  
-**Course Codes:** BUS 3103 (PBAU) / ISM 6427C (FAU) / Graduate AI Innovation  
 **Structure:** 9 Chapters · 14–16 Week Semester  
 **Capstone:** Investor-Ready Pitch with a Functioning MVP Demo
 

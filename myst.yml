@@ -3,10 +3,10 @@
 version: 1
 project:
   title: "AI Business Innovation: A Graduate Textbook"
-  subtitle: "From the Business Model Canvas to an Investor-Ready Pitch"
+  subtitle: "From the Business Model Canvas to an Investor-Ready Pitch — A Graduate Textbook"
   authors:
     - name: Dr. Ernesto Lee
-  description: "A graduate-level textbook for BUS 3103 (PBAU) / ISM 6427C (FAU). Nine chapters, one capstone: you will leave with a pitchable business and a functioning MVP."
+  description: "A graduate-level textbook. Nine chapters, one capstone: you will leave with a pitchable business and a functioning MVP."
   keywords: [AI, business innovation, Business Model Canvas, value proposition, unit economics, vibe coding, synthetic employees, MarTech, information asymmetry]
   license: CC-BY-4.0
   open_access: true
